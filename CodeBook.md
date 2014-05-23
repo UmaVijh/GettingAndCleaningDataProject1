@@ -1,17 +1,16 @@
 #Code Book for the Coursera Getting and Cleaning Data Project 1
-
 ##Study Design
 The data used where obtained from the following url:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-###Original Data
+###Original Data 
 The original data comes from the Human Activity Recognition Using Smartphones Dataset Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws www.smartlab.ws
+DITEN - Universit‡ degli Studi di Genova, 
+Via Opera Pia 11A, I-16145, Genoa, Italy. 
+xactivityrecognition@smartlab.ws www.smartlab.ws
 ==================================================================
 
 ### The Data
