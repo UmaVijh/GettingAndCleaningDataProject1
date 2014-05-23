@@ -4,9 +4,7 @@
 The data used where obtained from the following url:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The original data comes from the
-
-Human Activity Recognition Using Smartphones Dataset Version 1.0
+The original data comes from the Human Activity Recognition Using Smartphones Dataset Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
